@@ -140,6 +140,3 @@ store-rating-app/
 └── README.md
 ```
 
-<div align="center">
-  <p>Built with ❤️ by an expert Full-Stack Engineer.</p>
-</div>
